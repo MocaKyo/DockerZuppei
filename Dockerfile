@@ -1,2 +1,3 @@
-FROM atendai/evolution-api:v2.1.1
+FROM atendai/evolution-api:2.0.10
 RUN echo "" > /evolution/.env
+
