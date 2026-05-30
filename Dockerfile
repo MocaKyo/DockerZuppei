@@ -1,4 +1,3 @@
+
 FROM atendai/evolution-api:latest
-RUN echo "" > /evolution/.env
-
-
+# Não adicione nenhuma linha de RUN echo ou .env aqui
